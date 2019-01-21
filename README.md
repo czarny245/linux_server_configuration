@@ -7,9 +7,13 @@ port: 2200
 url: ec2-18-130-209-7.eu-west-2.compute.amazonaws.com
 
 A summary of software installed and configuration changes made:
+
 *-apache2
+
 *-postgresql
+
 *-finger
+
 *-libapache2-mod-wsgi python-dev
 *-git
 *-python-pip
